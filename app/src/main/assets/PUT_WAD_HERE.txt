@@ -1,0 +1,1 @@
+Put your *.wad here (any name, e.g. Game.wad)
