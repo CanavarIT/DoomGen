@@ -1,3 +1,5 @@
+<img width="2400" height="1080" alt="1000894302" src="https://github.com/user-attachments/assets/c918e03c-97ff-4437-b5d2-fbb10ddb3cc7" />
+
 # DoomGeneric for Android
 
 An Android port of [doomgeneric](https://github.com/ozkl/doomgeneric). The Doom engine stays in C and is built with the NDK. Java is only used for the window, touch controls, WAD discovery and music.
